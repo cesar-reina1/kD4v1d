@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kD4v1d
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript, if you have some advice for me I receive them very gratefully
+- Hola👋, soy Cesar Reina
+- 👀 me apaciona el desarrollo web
+- 🌱 Ask me about html, css, javascript, i'm learning React, if you have some advice for me I receive them very gratefully
 - 💞️ I’m looking to collaborate on smalls projects that allow me to learn
 - 📫 How to reach me: cesardavidreina@gmail.com
 
